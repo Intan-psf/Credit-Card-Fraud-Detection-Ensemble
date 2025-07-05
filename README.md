@@ -35,8 +35,6 @@ The project uses the `creditcard.csv` dataset containing transaction records and
 
 Features are anonymized (e.g., V1, V2, ..., V28) along with `Time`, `Amount`, and the `Class` label.
 
-> 📁 Ensure the `creditcard.csv` file is in your working directory or modify the script's path.
-
 ---
 
 ## ✨ Features
